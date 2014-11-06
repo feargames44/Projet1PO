@@ -1,0 +1,22 @@
+ETAPE	  DATE	 DEPART	ARRIVEE	DISTANCE
+1	05/07/14	Leeds	Harrogate	190
+2	06/07/14	York	Sheffield	201
+3	07/07/14	Cambridge	 Londres	155
+4	08/07/14	Le Touquet	Lille	163.5
+5	09/07/14	Ypres	Arenberg	156
+6	10/07/14	Arras	Reims	194
+7	11/07/14	Epernay	Nancy	234.5
+8	12/07/14	Tomblaine	Gérardmer	161
+9	13/07/14	Gérardmer	Mulhouse	170
+10	14/07/14	Mulhouse	La Planche des Belles Filles	161.5
+11	16/07/14	Besançon	Oyonnax	187.5
+12	17/07/14	Bourg-en-Bresse	Saint-Etienne	185.5
+13	18/07/14	Saint-Etienne	Chamrousse	197.5
+14	19/07/14	Grenoble	Risoul	177
+15	20/07/14	Tallard	Nîmes	222
+16	22/07/14	Carcassonne	Bagnères-de-Luchon	237.5
+17	23/07/14	Saint-Gaudens	Saint-Lary Pla d'Adet	124.5
+18	24/07/14	Pau	Hautacam	145.5
+19	25/07/14	Maubourguet	Bergerac	208.5
+20	26/07/14	Bergerac	Périgueux	54
+21	27/07/14	Evry	Paris Champs-Elysées	137.5
