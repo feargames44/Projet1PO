@@ -302,7 +302,7 @@ public class TourDeFrance {
 			System.out.println("Vainqueur partant de Mulhouse : " + lesClassements.getCoureur(lesEtapes.getEtapeByDepart("Mulhouse").numero, 1));
 			System.out.println("Vainqueur arrivant a Risoul : " + lesClassements.getCoureur(lesEtapes.getEtapeByArrivee("Risoul").numero, 1));
 			System.out.println("Vainqueur du 14 juillet : " + lesClassements.getCoureur(lesEtapes.getEtapeByDate("14/07/14").numero, 1));
-			System.out.println(lesClassements.getTempsTotalCoureur(41));
+			System.out.println(lesClassements.getTempsTotalCoureur(107));
 			System.out.println(getClassementGeneral(lesEquipes, lesClassements));
 		}
 	}
